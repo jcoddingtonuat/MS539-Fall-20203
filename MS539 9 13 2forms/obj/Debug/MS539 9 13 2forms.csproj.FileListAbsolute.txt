@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\MS539 9 13 2forms\bin\Debug\MS539 9 13 2forms.exe.config
+C:\Users\Owner\source\repos\MS539 9 13 2forms\bin\Debug\MS539 9 13 2forms.exe
+C:\Users\Owner\source\repos\MS539 9 13 2forms\bin\Debug\MS539 9 13 2forms.pdb
+C:\Users\Owner\source\repos\MS539 9 13 2forms\obj\Debug\MS539 9 13 2forms.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\MS539 9 13 2forms\obj\Debug\MS539 9 13 2forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\source\repos\MS539 9 13 2forms\obj\Debug\MS539_9_13_2forms.Form1.resources
+C:\Users\Owner\source\repos\MS539 9 13 2forms\obj\Debug\MS539_9_13_2forms.Form2.resources
+C:\Users\Owner\source\repos\MS539 9 13 2forms\obj\Debug\MS539_9_13_2forms.Properties.Resources.resources
+C:\Users\Owner\source\repos\MS539 9 13 2forms\obj\Debug\MS539 9 13 2forms.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\MS539 9 13 2forms\obj\Debug\MS539 9 13 2forms.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\MS539 9 13 2forms\obj\Debug\MS539 9 13 2forms.exe
+C:\Users\Owner\source\repos\MS539 9 13 2forms\obj\Debug\MS539 9 13 2forms.pdb

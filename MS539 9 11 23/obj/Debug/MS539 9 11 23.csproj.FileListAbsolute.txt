@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\MS539 9 11 23\bin\Debug\MS539 9 11 23.exe.config
+C:\Users\Owner\source\repos\MS539 9 11 23\bin\Debug\MS539 9 11 23.exe
+C:\Users\Owner\source\repos\MS539 9 11 23\bin\Debug\MS539 9 11 23.pdb
+C:\Users\Owner\source\repos\MS539 9 11 23\obj\Debug\MS539 9 11 23.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\MS539 9 11 23\obj\Debug\MS539_9_11_23.Form1.resources
+C:\Users\Owner\source\repos\MS539 9 11 23\obj\Debug\MS539_9_11_23.Properties.Resources.resources
+C:\Users\Owner\source\repos\MS539 9 11 23\obj\Debug\MS539 9 11 23.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\MS539 9 11 23\obj\Debug\MS539 9 11 23.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\MS539 9 11 23\obj\Debug\MS539 9 11 23.exe
+C:\Users\Owner\source\repos\MS539 9 11 23\obj\Debug\MS539 9 11 23.pdb
